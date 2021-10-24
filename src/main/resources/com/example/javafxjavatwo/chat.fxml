@@ -11,6 +11,7 @@
         <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
     </padding>
     <TextArea fx:id="mainTextArea" VBox.vgrow="ALWAYS" disable="true" opacity="0.9" visible="true" editable="true"/>
-    <TextField fx:id="enter" onAction="#enter"/>
-    <Button text="Отправить сообщение" onAction="#onButtonClick"/>
+    <TextField fx:id="textField" onAction="#enter"/>
+    <Button fx:id="btn" text="Отправить сообщение" onAction="#onButtonClick"/>
+
 </VBox>
