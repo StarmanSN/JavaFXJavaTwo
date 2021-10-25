@@ -8,6 +8,8 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/com/dlsc/formsfx/formsfx-core/11.4.2/formsfx-core-11.4.2-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Program Files/Java/javafx-sdk-17.0.1" />
     </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../Program Files/Java/javafx-sdk-17.0.1" recursive="false" type="SOURCES" />
   </library>
 </component>
